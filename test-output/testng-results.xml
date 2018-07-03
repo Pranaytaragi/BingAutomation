@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83688" started-at="2018-07-03T06:00:33Z" finished-at="2018-07-03T06:01:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83688" started-at="2018-07-03T06:00:33Z" finished-at="2018-07-03T06:01:57Z">
+      <class name="Bingtesting.BingTesting">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="launchBrowser" is-config="true" duration-ms="1212" started-at="2018-07-03T06:00:33Z" finished-at="2018-07-03T06:00:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="Test01_user_able_to_open_drop_down_list()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test01_user_able_to_open_drop_down_list" duration-ms="3854" started-at="2018-07-03T06:00:34Z" finished-at="2018-07-03T06:00:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_user_able_to_open_drop_down_list -->
+        <test-method status="PASS" signature="Test02_user_able_to_select_language()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test02_user_able_to_select_language" duration-ms="1093" started-at="2018-07-03T06:00:38Z" finished-at="2018-07-03T06:00:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test02_user_able_to_select_language -->
+        <test-method status="PASS" signature="Test03_Translate_language()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test03_Translate_language" duration-ms="3055" started-at="2018-07-03T06:00:39Z" finished-at="2018-07-03T06:00:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test03_Translate_language -->
+        <test-method status="PASS" signature="Test04_swap_language()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test04_swap_language" duration-ms="4375" started-at="2018-07-03T06:00:42Z" finished-at="2018-07-03T06:00:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test04_swap_language -->
+        <test-method status="PASS" signature="Test05_select_last_and_secondlast_language()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test05_select_last_and_secondlast_language" duration-ms="3086" started-at="2018-07-03T06:00:47Z" finished-at="2018-07-03T06:00:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test05_select_last_and_secondlast_language -->
+        <test-method status="PASS" signature="Test06_clear_button()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test06_clear_button" duration-ms="854" started-at="2018-07-03T06:00:50Z" finished-at="2018-07-03T06:00:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test06_clear_button -->
+        <test-method status="PASS" signature="Test07_click_on_audio_button()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test07_click_on_audio_button" duration-ms="4620" started-at="2018-07-03T06:00:51Z" finished-at="2018-07-03T06:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test07_click_on_audio_button -->
+        <test-method status="PASS" signature="Test08_click_on_copy_button()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test08_click_on_copy_button" duration-ms="4310" started-at="2018-07-03T06:00:55Z" finished-at="2018-07-03T06:01:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test08_click_on_copy_button -->
+        <test-method status="PASS" signature="Test09_feedback()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test09_feedback" duration-ms="5002" started-at="2018-07-03T06:01:00Z" finished-at="2018-07-03T06:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test09_feedback -->
+        <test-method status="PASS" signature="Test10_click_on_signin_button()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test10_click_on_signin_button" duration-ms="2883" started-at="2018-07-03T06:01:05Z" finished-at="2018-07-03T06:01:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test10_click_on_signin_button -->
+        <test-method status="PASS" signature="Test11_click_on_bing()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test11_click_on_bing" duration-ms="14532" started-at="2018-07-03T06:01:08Z" finished-at="2018-07-03T06:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test11_click_on_bing -->
+        <test-method status="PASS" signature="Test12_user_able_to_click_on_microsoft_button()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test12_user_able_to_click_on_microsoft_button" duration-ms="32543" started-at="2018-07-03T06:01:22Z" finished-at="2018-07-03T06:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12_user_able_to_click_on_microsoft_button -->
+        <test-method status="PASS" signature="Test13_user_able_to_search()[pri:0, instance:Bingtesting.BingTesting@41488b16]" name="Test13_user_able_to_search" duration-ms="2205" started-at="2018-07-03T06:01:55Z" finished-at="2018-07-03T06:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test13_user_able_to_search -->
+      </class> <!-- Bingtesting.BingTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
